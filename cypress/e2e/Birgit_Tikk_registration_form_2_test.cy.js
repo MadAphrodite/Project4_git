@@ -273,7 +273,7 @@ describe("Section 2: Visual tests", () => {
   });
 });
 
-// Function that fills in all the mandatory fields
+// Function that fills in all mandatory fields
 function inputValidData(username) {
   cy.log("Username will be filled");
   cy.get('input[data-testid="user"]').type(username);
