@@ -1,6 +1,4 @@
 # Registration Forms
-
-## Project objective
 This project is about testing how registration forms look and work. The goal of the project is to utilize Cypress and completely cover 4 registration forms with automated tests.
 
 ## Technical set-up
