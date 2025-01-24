@@ -26,7 +26,7 @@ This project is about testing how registration forms look and work by using UI t
 ## Cypress simple tests
 Tests written for basic HTML, CSS and JavaScript project.
 #### Assignments
-* Assignment 1: Prepare technical workplace
+* [Assignment 1: Prepare technical workplace](https://github.com/MadAphrodite/Registration_Forms_Automation/tree/master?tab=readme-ov-file#technical-workplace-set-up)
 * Assignment 2: Update tests for Registration Form 1
 * Assignment 3: Create new tests for Registration Form 1
 * Assignment 4: Create new functional tests for Registration Form 2
