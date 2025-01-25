@@ -1,6 +1,19 @@
 # Registration Forms
 This project is about testing how registration forms look and work by using UI test automation. The goal of the project is to utilize Cypress and completely cover 3 registration forms with automated tests.
 
+## My responsibilities and highlights during the project
+* Setting up my technical workplace
+* Gaining knowledge of VSCode, Github, Git commands, Cypress, DevTools and Javascript.
+* Inspecting the HTML of registration form pages to find elements
+* Generating automated tests for 3 registration forms for functional and visual testing
+* Executing automated tests with Cypress
+* Analyzing and fixing failed tests
+* Practicing the usage of functions for automating repetitive data entry
+
+#### Highlights:
+* My code was chosen by the mentor as one of the exemplary works that met all their expectations for this project.
+* Completed all mandatory and bonus assignments successfully.
+
 ## Technical workplace set-up
 #### Installing Node.js and NPM
 1. Download the software from the link - [Node.js Download](https://nodejs.org/en/) - take LTS (long term support version)  
