@@ -27,8 +27,8 @@ This project is about testing how registration forms look and work by using UI t
 Tests written for basic HTML, CSS and JavaScript project.
 #### Assignments
 * [Assignment 1: Prepare technical workplace](https://github.com/MadAphrodite/Registration_Forms_Automation/tree/master?tab=readme-ov-file#technical-workplace-set-up)
-* Assignment 2: Update tests for Registration Form 1
-* Assignment 3: Create new tests for Registration Form 1
+* [Assignment 2: Update tests for Registration Form 1](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/registration_form_1_test.cy.js)
+* [Assignment 3: Create new tests for Registration Form 1](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/registration_form_1_test.cy.js)
 * Assignment 4: Create new functional tests for Registration Form 2
 * Assignment 5: Create new visual tests for Registration Form 2
 * Bonus: Fix failed tests
