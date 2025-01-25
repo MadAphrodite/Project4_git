@@ -14,6 +14,15 @@ This project is about testing how registration forms look and work by using UI t
 * My code was chosen by the mentor as one of the exemplary works that met all their expectations for this project.
 * Completed all mandatory and bonus assignments successfully.
 
+## Assignments
+* [Assignment 1: Prepare technical workplace](https://github.com/MadAphrodite/Registration_Forms_Automation/tree/master?tab=readme-ov-file#technical-workplace-set-up)
+* [Assignment 2: Update tests for Registration Form 1](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/registration_form_1_test.cy.js)
+* [Assignment 3: Create new tests for Registration Form 1](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/registration_form_1_test.cy.js)
+* [Assignment 4: Create new functional tests for Registration Form 2](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/Birgit_Tikk_registration_form_2_test.cy.js)
+* [Assignment 5: Create new visual tests for Registration Form 2](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/Birgit_Tikk_registration_form_2_test.cy.js)
+* [Bonus: Fix failed tests](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/registration_form_4_test.cy.js)
+* [Bonus: Create visual and functional tests for Registration Form 3](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/registration_form_3_test.cy.js)
+
 ## Technical workplace set-up
 #### Installing Node.js and NPM
 1. Download the software from the link - [Node.js Download](https://nodejs.org/en/) - take LTS (long term support version)  
@@ -35,17 +44,6 @@ This project is about testing how registration forms look and work by using UI t
 1. Open VS Code terminal window
 2. Install Cypress and dependencies from the project root folder using command `npm install`.
 3. To check that Cypress is installed, use command `npm list`.
-
-## Cypress simple tests
-Tests written for basic HTML, CSS and JavaScript project.
-#### Assignments
-* [Assignment 1: Prepare technical workplace](https://github.com/MadAphrodite/Registration_Forms_Automation/tree/master?tab=readme-ov-file#technical-workplace-set-up)
-* [Assignment 2: Update tests for Registration Form 1](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/registration_form_1_test.cy.js)
-* [Assignment 3: Create new tests for Registration Form 1](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/registration_form_1_test.cy.js)
-* [Assignment 4: Create new functional tests for Registration Form 2](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/Birgit_Tikk_registration_form_2_test.cy.js)
-* [Assignment 5: Create new visual tests for Registration Form 2](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/Birgit_Tikk_registration_form_2_test.cy.js)
-* [Bonus: Fix failed tests](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/registration_form_4_test.cy.js)
-* [Bonus: Create visual and functional tests for Registration Form 3](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/registration_form_3_test.cy.js)
 
 ## Test execution guidelines
 
