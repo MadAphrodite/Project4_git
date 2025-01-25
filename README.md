@@ -29,8 +29,8 @@ Tests written for basic HTML, CSS and JavaScript project.
 * [Assignment 1: Prepare technical workplace](https://github.com/MadAphrodite/Registration_Forms_Automation/tree/master?tab=readme-ov-file#technical-workplace-set-up)
 * [Assignment 2: Update tests for Registration Form 1](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/registration_form_1_test.cy.js)
 * [Assignment 3: Create new tests for Registration Form 1](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/registration_form_1_test.cy.js)
-* Assignment 4: Create new functional tests for Registration Form 2
-* Assignment 5: Create new visual tests for Registration Form 2
+* [Assignment 4: Create new functional tests for Registration Form 2](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/Birgit_Tikk_registration_form_2_test.cy.js)
+* [Assignment 5: Create new visual tests for Registration Form 2](https://github.com/MadAphrodite/Registration_Forms_Automation/blob/master/cypress/e2e/Birgit_Tikk_registration_form_2_test.cy.js)
 * Bonus: Fix failed tests
 * Bonus: Create visual and functional tests for Registration Form 3
 
